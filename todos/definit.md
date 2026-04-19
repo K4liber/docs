@@ -10,6 +10,10 @@ https://leetcode.com/studyplan/top-interview-150/
 
 ## 2. Review all DSA definitions
 
+## 9. Introduce React Router
+
+Apply filtering based on URL parameters and query strings.
+
 ## 3. Limit number of nodes on visualization to 200
 
 Add a pop-up window whenever filtering allows more than 200 nodes.
