@@ -8,6 +8,8 @@ https://leetcode.com/studyplan/top-interview-150/
 
 # TODO
 
+## 10. Prepare presentation for Warsaw Python Pizza
+
 ## 2. Review all DSA definitions
 
 ## 9. Introduce React Router
