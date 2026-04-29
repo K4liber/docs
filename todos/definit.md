@@ -6,9 +6,9 @@ Could be done with LLMs. Does not matter. What matters is to ensure all definiti
 
 https://leetcode.com/studyplan/top-interview-150/
 
-# TODO
-
 ## 10. Prepare presentation for Warsaw Python Pizza
+
+# TODO
 
 ## 2. Review all DSA definitions
 
