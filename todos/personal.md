@@ -2,6 +2,8 @@
 
 # TODO
 
+## 3. Pick up the hat from Decathlon, Polna 11.
+
 # DONE
 
 ## 2. Pay extra 50 PLN for May rent and remove the automatic, monthly payment.
