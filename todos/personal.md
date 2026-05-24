@@ -2,7 +2,25 @@
 
 # TODO
 
+## 4. Move out
 
+- [x] Check if internet modem can be used in the new place
+- [x] Book a transport truck at 11 am
+- [x] Ask Józek to help with the letting the truck in
+- [x] Clean the fridge
+- [ ] Clean the balcony
+- [ ] Pack all items
+- [ ] Vacuum the whole apartment
+- [ ] Clean the bedroom
+- [ ] Clean the kitchen
+- [ ] Take out the trash
+- [ ] Clean the trash area
+- [ ] Move all the stuff to the new apartment
+- [ ] Confirm with Józek that everything is done when it comes to the old apartment
+
+## 5. Plan a one week trip with Ashima
+
+## 6. Buy coffee
 
 # DONE
 
