@@ -8,11 +8,13 @@
 - [x] Book a transport truck at 11 am
 - [x] Ask Józek to help with the letting the truck in
 - [x] Clean the fridge
-- [ ] Clean the balcony
+- [x] Vacuum the balcony
 - [ ] Pack all items
+- [ ] Dust off the balcony
 - [ ] Vacuum the whole apartment
 - [ ] Clean the bedroom
 - [ ] Clean the kitchen
+- [ ] Dust off the remaining surfaces
 - [ ] Take out the trash
 - [ ] Clean the trash area
 - [ ] Move all the stuff to the new apartment
