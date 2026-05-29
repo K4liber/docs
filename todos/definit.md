@@ -1,14 +1,12 @@
 # IN PROGRESS
 
-## 1. Do "Top Interview 150" let-code exercises and check if some DSA definitions are remaining
-
-Could be done with LLMs. Does not matter. What matters is to ensure all definitions/concepts are understood and written down.
-
-https://leetcode.com/studyplan/top-interview-150/
+## 2. Review all DSA definitions. Make sure all references are created.
 
 # TODO
 
-## 2. Review all DSA definitions. Make sure all references are created.
+## 10. Introduce synonyms
+
+When a definition has more than one synonym, all synonyms should be displayed in the UI and be searchable.
 
 ## 9. Introduce React Router
 
@@ -33,6 +31,12 @@ Figure out conditions for limiting the number of nodes displayed.
 Remove the JS-based serializer.
 
 # DONE
+
+## 1. Do "Top Interview 150" let-code exercises and check if some DSA definitions are remaining
+
+Could be done with LLMs. Does not matter. What matters is to ensure all definitions/concepts are understood and written down.
+
+https://leetcode.com/studyplan/top-interview-150/
 
 ## 10. Prepare presentation for Warsaw Python Pizza
 
