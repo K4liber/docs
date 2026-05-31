@@ -2,6 +2,16 @@
 
 # TODO
 
+## 7. Send password to EON account to Józek
+
+## 8. Pay for the key duplicate to Tomek
+
+## 5. Plan a one week trip with Ashima
+
+## 6. Buy coffee
+
+# DONE
+
 ## 4. Move out
 
 - [x] Check if internet modem can be used in the new place
@@ -9,22 +19,15 @@
 - [x] Ask Józek to help with the letting the truck in
 - [x] Clean the fridge
 - [x] Vacuum the balcony
-- [ ] Pack all items
-- [ ] Dust off the balcony
-- [ ] Vacuum the whole apartment
-- [ ] Clean the bedroom
-- [ ] Clean the kitchen
-- [ ] Dust off the remaining surfaces
-- [ ] Take out the trash
-- [ ] Clean the trash area
-- [ ] Move all the stuff to the new apartment
-- [ ] Confirm with Józek that everything is done when it comes to the old apartment
-
-## 5. Plan a one week trip with Ashima
-
-## 6. Buy coffee
-
-# DONE
+- [x] Pack all items
+- [x] Vacuum the whole apartment
+- [x] Clean the bedroom
+- [x] Clean the kitchen
+- [x] Dust off the remaining surfaces
+- [x] Take out the trash
+- [x] Clean the trash area
+- [x] Move all the stuff to the new apartment
+- [x] Confirm with Józek that everything is done when it comes to the old apartment
 
 ## 3. Pick up the hat from Decathlon, Polna 11.
 
