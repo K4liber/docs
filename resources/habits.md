@@ -10,5 +10,7 @@
 - 8 hours of sleep is mandatory.
 - At least 30 minutes of exercise every day. Power walking or intervals count. For a normal walking, 1 hour is required.
 - Scrolling memes before going to sleep as a way to relax.
+- 5g of creatine every day.
+- 1-2 portions of electrolytes every day (especially magnesium and potassium).
 
 ## Changelog

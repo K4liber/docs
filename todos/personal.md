@@ -1,14 +1,22 @@
 # IN PROGRESS
 
+## 6. Buy coffee
+
+- [x] Find a coffee to buy
+
+https://bezplanu.com/sklep/kawa-bezplanu-1000-g/
+
+- [ ] Order the coffee to Świetlików place
+
 # TODO
+
+## 8. Change the internet agreement to the new address
 
 ## 7. Send password to EON account to Józek
 
 ## 8. Pay for the key duplicate to Tomek
 
 ## 5. Plan a one week trip with Ashima
-
-## 6. Buy coffee
 
 # DONE
 
