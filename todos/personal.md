@@ -10,7 +10,9 @@ https://bezplanu.com/sklep/kawa-bezplanu-1000-g/
 
 # TODO
 
-## 8. Change the internet agreement to the new address
+## 10. Check if I have Messenger photos on the desktop of my private laptop
+
+## 9. Change the internet agreement to the new address
 
 ## 7. Send password to EON account to Józek
 
