@@ -1,27 +1,25 @@
 ## IN PROGRESS
 
-### 7. Send password to EON account to Józek
-
-- [x] Add Józek email to the EON account
-- [ ] Can he access the account?
-
 ### 10. Send Messenger photos to my mom
 
 - [x] Check if I have Messenger photos on the desktop of my private laptop
-- [ ] Download missing photos and videos from 2025
-- [ ] Send the photos to my mom
+- [ ] Download missing photos and videos from 2025 to my mom's Google Drive
+- [ ] Upload 2020-2024 photos to an external drive
 
 ## TODO
 
-### 11. Fix the shower handle (Świetlików)
-
 ### 9. Change the internet agreement to the new address
-
-### 8. Pay for the key duplicate to Tomek
 
 ### 5. Plan a one week trip with Ashima
 
 ## DONE
+
+### 8. Pay for the key duplicate to Tomek
+
+### 7. Send password to EON account to Józek
+
+- [x] Add Józek email to the EON account
+- [x] Can he access the account?
 
 ### 6. Buy coffee
 
@@ -60,3 +58,7 @@ Do I take a longer holidays as originally planned?
 Summary: Nothing has been planned. Staying in Warsaw. Visiting friends and family.
 
 ## ABANDONED
+
+### 11. Fix the shower handle (Świetlików)
+
+- [x] In a different mode it actually works fine
