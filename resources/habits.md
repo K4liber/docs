@@ -11,10 +11,15 @@
 - Scrolling memes before going to sleep as a way to relax.
 - 5g of creatine every day.
 - 1-2 portions of electrolytes every day (especially magnesium and potassium).
-- Starting each day from a walk/jogging session.
-- Calisthenic session in the afternoon, 3 times per week (push, pull, core).
+- Starting each day from an easy walk/jogging/calisthenic/cycling/yoga session.
+- Calisthenic session 3 times per week (push, pull, core).
 
 ## Changelog
+
+### 2026-06-09
+
+Replaced "walk/jogging session" with "easy walk/jogging/calisthenic/cycling/yoga session".
+Replaced "calisthenic session in the afternoon" with "calisthenic session".
 
 ### 2026-06-02
 
