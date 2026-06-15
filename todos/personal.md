@@ -8,6 +8,8 @@
 
 ## TODO
 
+### 12. Find a girl for Konrad&Ania wedding
+
 ### 9. Change the internet agreement to the new address
 
 ### 5. Plan a one week trip with Ashima
