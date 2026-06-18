@@ -1,5 +1,10 @@
 ## IN PROGRESS
 
+### 14. Buy a stock on IKE&IKZE
+
+- [ ] Select a stock
+- [ ] Buy it
+
 ### 10. Send Messenger photos to my mom
 
 - [x] Check if I have Messenger photos on the desktop of my private laptop
@@ -7,6 +12,8 @@
 - [ ] Upload 2020-2024 photos to an external drive
 
 ## TODO
+
+### 13. Read about BAM company
 
 ### 12. Find a girl for Konrad&Ania wedding
 

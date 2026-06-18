@@ -8,13 +8,15 @@
 - Last meal should be before 8pm.
 - Max bedtime is 11pm.
 - 8 hours of sleep is mandatory.
-- Scrolling memes before going to sleep as a way to relax.
+- Reading a book before going to sleep as a way to relax.
 - 5g of creatine every day.
 - 1-2 portions of electrolytes every day (especially magnesium and potassium).
 - Calisthenic session 3 times per week (push, pull, core).
 - Jogging 3 times per week.
 
 ## Changelog
+
+Replaced "Scrolling memes before going to sleep as a way to relax." with "Reading a book before going to sleep as a way to relax."
 
 ### 2026-06-15
 
