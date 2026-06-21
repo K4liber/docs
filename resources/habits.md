@@ -13,12 +13,15 @@
 - 1-2 portions of electrolytes every day (especially magnesium and potassium).
 - Calisthenic session 3 times per week (push, pull, core).
 - Jogging 3 times per week.
+- Max naptime is 12 minutes.
 
 ## Changelog
 
 ### 2026-06-21
 
 Replaced "Scrolling memes before going to sleep as a way to relax." with "Half an hour relaxing with music/podcast/book before going to sleep."
+
+Added "Max naptime is 12 minutes."
 
 ### 2026-06-15
 
