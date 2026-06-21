@@ -4,11 +4,11 @@
 
 - No alcohol.
 - No sugar.
-- Max 3-4 portions of coffee (1 portion is an espresso or a tea, or a can of soda).
+- Max 3 portions of coffee (1 portion is an espresso or a tea, or a can of soda).
 - Last meal should be before 8pm.
 - Max bedtime is 11pm.
 - 8 hours of sleep is mandatory.
-- Reading a book before going to sleep as a way to relax.
+- Half an hour relaxing with music/podcast/book before going to sleep.
 - 5g of creatine every day.
 - 1-2 portions of electrolytes every day (especially magnesium and potassium).
 - Calisthenic session 3 times per week (push, pull, core).
@@ -16,7 +16,9 @@
 
 ## Changelog
 
-Replaced "Scrolling memes before going to sleep as a way to relax." with "Reading a book before going to sleep as a way to relax."
+### 2026-06-21
+
+Replaced "Scrolling memes before going to sleep as a way to relax." with "Half an hour relaxing with music/podcast/book before going to sleep."
 
 ### 2026-06-15
 

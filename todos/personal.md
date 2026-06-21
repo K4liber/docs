@@ -2,18 +2,22 @@
 
 ### 14. Buy a stock on IKE&IKZE
 
-- [ ] Select a stock
+- [x] Select a stock
+
+Microsoft again
+
 - [ ] Buy it
 
 ### 10. Send Messenger photos to my mom
 
 - [x] Check if I have Messenger photos on the desktop of my private laptop
+
+I have multimedia from Potoczek chat from 2020-2024, but not from 2025.
+
 - [ ] Download missing photos and videos from 2025 to my mom's Google Drive
-- [ ] Upload 2020-2024 photos to an external drive
+- [ ] Upload 2020-2024 photos to an external drive and upload to my mom's Google Drive
 
 ## TODO
-
-### 13. Read about BAM company
 
 ### 12. Find a girl for Konrad&Ania wedding
 
@@ -22,6 +26,10 @@
 ### 5. Plan a one week trip with Ashima
 
 ## DONE
+
+### 13. Read about BAM company
+
+From an initial research (wikipedia, gowork, glassdoor) it seems like not a good place to work.
 
 ### 8. Pay for the key duplicate to Tomek
 
