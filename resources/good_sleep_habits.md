@@ -1,4 +1,4 @@
-# Habits
+# Good sleep habits
 
 ## Current Habits
 
@@ -6,7 +6,7 @@
 - No sugar.
 - Max 3 portions of coffee (1 portion is an espresso or a tea, or a can of soda).
 - Last meal should be before 8pm.
-- Max bedtime is 11pm.
+- Max bedtime is 10:30pm.
 - 8 hours of sleep is mandatory.
 - Half an hour relaxing with music/podcast/book before going to sleep.
 - 5g of creatine every day.
@@ -16,6 +16,10 @@
 - Max naptime is 12 minutes.
 
 ## Changelog
+
+### 2026-06-22
+
+Replaced "Max bedtime is 11pm" with "Max bedtime is 10:30pm".
 
 ### 2026-06-21
 
