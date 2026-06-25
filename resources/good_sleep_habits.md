@@ -4,7 +4,8 @@
 
 - No alcohol.
 - No sugar.
-- Max 3 portions of coffee (1 portion is an espresso or a tea, or a can of soda).
+- No nicotine.
+- Max 2 portions of coffee (1 portion is an espresso or a tea, or a can of soda).
 - Last meal should be before 8pm.
 - Max bedtime is 10:30pm.
 - 8 hours of sleep is mandatory.
@@ -16,6 +17,12 @@
 - Max naptime is 12 minutes.
 
 ## Changelog
+
+### 2026-06-26
+
+Replaced "Max 3 portions of coffee" with "Max 2 portions of coffee".
+
+Added "no nicotine".
 
 ### 2026-06-22
 
