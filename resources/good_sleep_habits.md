@@ -7,16 +7,19 @@
 - No nicotine.
 - Max 2 portions of coffee (1 portion is an espresso or a tea, or a can of soda).
 - Last meal should be before 8pm.
-- Max bedtime is 10:30pm.
-- 8 hours of sleep is mandatory.
+- Target bedtime is 10:30pm.
+- 8 hours of sleep.
 - Half an hour relaxing with music/podcast/book before going to sleep.
-- 5g of creatine every day.
 - 1-2 portions of electrolytes every day (especially magnesium and potassium).
 - Calisthenic session 3 times per week (push, pull, core).
 - Jogging 3 times per week.
 - Max naptime is 12 minutes.
 
 ## Changelog
+
+### 2026-06-27
+
+Removed "5g of creatine every day" -> probably creatine is not much related to sleep.
 
 ### 2026-06-26
 
