@@ -1,5 +1,10 @@
 ## IN PROGRESS
 
+### 15. Buy a stock on IKE&IKZE
+
+- [ ] Select a stock
+- [ ] Buy it
+
 ### 10. Send Messenger photos to my mom
 
 - [x] Check if I have Messenger photos on the desktop of my private laptop
@@ -9,9 +14,13 @@ I have multimedia from Potoczek chat from 2020-2024, but not from 2025.
 - [ ] Download missing photos and videos from 2025 to my mom's Google Drive
 - [ ] Upload 2020-2024 photos to an external drive and upload to my mom's Google Drive
 
-### 12. Find a girl for Konrad&Ania wedding
-
 ## TODO
+
+### 17. Buy electrolytes
+
+### 16. Buy few pairs of comfortable socks
+
+- [ ] https://allegro.pl/produkt/skarpety-sportowe-z-palcami-cienkie-run-lightweight-mini-crew-ii-m-czarny-0a0013ad-a290-4cf9-8414-276e1c1c8a6b?offerId=17967934258&context=6d3a3af21944173aec5e42a74ea035caed70ed5efb543ac3eb271277bb7438f0a6a4563c1bb74d1086f68518ea758849a7f67e0e38e03e3b29e83a092a50bc11d43b68f63da10f70a73b301461cff22329cd5b376e028a793d9926ac79e48f9c310e51f360456742c4f86df469075b1a20240bc2b78d361f091015e19ac23f4e6f5f4c3215777bf31016630a9f5ce09d&sellerHasChanged=false&fromVariant=17773615163
 
 ### 9. Change the internet agreement to the new address
 
@@ -75,6 +84,10 @@ Do I take a longer holidays as originally planned?
 Summary: Nothing has been planned. Staying in Warsaw. Visiting friends and family.
 
 ## ABANDONED
+
+### 12. Find a girl for Konrad&Ania wedding
+
+I will go by myself.
 
 ### 11. Fix the shower handle (Świetlików)
 
