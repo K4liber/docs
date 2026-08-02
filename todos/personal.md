@@ -2,7 +2,10 @@
 
 ### 15. Buy a stock on IKE&IKZE
 
-- [ ] Select a stock
+- [x] Select a stock
+
+Micron Technology ([report](..\investments\reports\micron_technology_2026-08-02.md))
+
 - [ ] Buy it
 
 ### 10. Send Messenger photos to my mom

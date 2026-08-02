@@ -1,0 +1,10 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/investments/.venv/Scripts/python.exe",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/investments/src"
+  ],
+  "python.testing.pytestArgs": [
+    "investments/tests"
+  ],
+  "python.testing.pytestEnabled": true
+}

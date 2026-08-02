@@ -1,0 +1,17 @@
+# Scores are normalized to 0-100 before applying these weights.
+[weights]
+pe_ratio = 0.15
+pb_ratio = 0.10
+revenue_growth = 0.20
+profit_margin = 0.20
+products_score = 0.20
+undervalued_score = 0.10
+volatility_score = 0.05
+
+# A company must pass every filter and have every required metric to be ranked.
+[filters]
+max_pe_ratio = 100.0
+max_pb_ratio = 30.0
+min_revenue_growth = 0.0
+min_profit_margin = 0.0
+min_products_score = 50.0
