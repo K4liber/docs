@@ -1,13 +1,5 @@
 ## IN PROGRESS
 
-### 15. Buy a stock on IKE&IKZE
-
-- [x] Select a stock
-
-Micron Technology ([report](..\investments\reports\micron_technology_2026-08-02.md))
-
-- [ ] Buy it
-
 ### 10. Send Messenger photos to my mom
 
 - [x] Check if I have Messenger photos on the desktop of my private laptop
@@ -30,6 +22,14 @@ I have multimedia from Potoczek chat from 2020-2024, but not from 2025.
 ### 5. Plan a one week trip with Ashima
 
 ## DONE
+
+### 15. Buy a stock on IKE&IKZE
+
+- [x] Select a stock
+
+Micron Technology ([report](..\investments\reports\micron_technology_2026-08-02.md))
+
+- [x] Buy it
 
 ### 14. Buy a stock on IKE&IKZE
 
