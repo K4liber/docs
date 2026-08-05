@@ -15,3 +15,4 @@ max_pb_ratio = 30.0
 min_revenue_growth = 0.0
 min_profit_margin = 0.0
 min_products_score = 50.0
+min_rebound_from_low = 0.05

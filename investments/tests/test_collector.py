@@ -3,16 +3,20 @@ from __future__ import annotations
 import json
 import math
 import statistics
+from contextlib import nullcontext
 
 import pytest
 
 from active_investing import collector
 from active_investing.collector import (
     CSV_FIELDS,
+    ENERGY_SOURCE_URL,
+    TECH_SOURCE_URL,
     CompanySeed,
     calculate_price_scores,
     collect_records,
     collect_to_csv,
+    fetch_top_companies,
     load_manual_values,
     parse_quote_summary,
     parse_top_companies,
@@ -30,9 +34,10 @@ def test_parse_top_companies_reads_validated_table_rows() -> None:
     </tbody></table>
     """
 
-    companies = parse_top_companies(html, limit=1)
+    companies = parse_top_companies(html, sector="tech", limit=1)
 
     assert companies[0].source_rank == 1
+    assert companies[0].sector == "tech"
     assert companies[0].ticker == "EXM"
     assert companies[0].name == "Example Corp"
     assert companies[0].market_cap == 123_456_789
@@ -40,7 +45,28 @@ def test_parse_top_companies_reads_validated_table_rows() -> None:
 
 def test_parse_top_companies_rejects_incomplete_source() -> None:
     with pytest.raises(ValueError, match="Expected 1 valid companies"):
-        parse_top_companies("<html></html>", limit=1)
+        parse_top_companies("<html></html>", sector="tech", limit=1)
+
+
+def test_fetch_top_companies_combines_tech_and_energy(monkeypatch) -> None:
+    requested_urls: list[str] = []
+
+    monkeypatch.setattr(collector, "_build_session", lambda: nullcontext(object()))
+
+    def fake_get(session, url, accept):
+        requested_urls.append(url)
+        return type("Payload", (), {"text": "<html></html>"})()
+
+    def fake_parse(html, sector, limit):
+        return [CompanySeed(1, sector, f"{sector[:1].upper()}EX", f"{sector} co", 100)]
+
+    monkeypatch.setattr(collector, "_get", fake_get)
+    monkeypatch.setattr(collector, "parse_top_companies", fake_parse)
+
+    companies = fetch_top_companies(limit=1)
+
+    assert requested_urls == [TECH_SOURCE_URL, ENERGY_SOURCE_URL]
+    assert [company.sector for company in companies] == ["tech", "energy"]
 
 
 def test_parse_quote_summary_reads_embedded_response_body() -> None:
@@ -93,7 +119,7 @@ def test_price_scores_calculate_intermediate_components() -> None:
 
 
 def test_collect_records_preserves_intentionally_blank_description(monkeypatch) -> None:
-    seed = CompanySeed(1, "EXM", "Example", 100)
+    seed = CompanySeed(1, "tech", "EXM", "Example", 100)
     monkeypatch.setattr(
         collector,
         "_fetch_financial_data",
@@ -135,9 +161,9 @@ def test_load_manual_values_normalizes_signed_score(tmp_path) -> None:
 
 def test_incomplete_provider_data_does_not_replace_existing_csv(tmp_path, monkeypatch) -> None:
     path = tmp_path / "companies.csv"
-    original = ",".join(CSV_FIELDS) + "\n1,OLD,Old Company,100,,,,,Keep,50,,,,,,\n"
+    original = ",".join(CSV_FIELDS) + "\n1,tech,OLD,Old Company,100,,,,,Keep,50,,,,,,\n"
     path.write_text(original, encoding="utf-8")
-    seed = CompanySeed(1, "EXM", "Example", 100)
+    seed = CompanySeed(1, "tech", "EXM", "Example", 100)
     monkeypatch.setattr(collector, "fetch_top_companies", lambda limit: [seed])
     monkeypatch.setattr(
         collector,

@@ -51,14 +51,19 @@ def _score(value: str) -> float:
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         prog="active-investing",
-        description="Collect and rank the 100 largest public technology companies.",
+        description="Collect and rank top public technology and energy companies by market cap.",
     )
     parser.add_argument("--verbose", action="store_true", help="show detailed progress messages")
     subparsers = parser.add_subparsers(dest="command", required=True)
 
     def add_collection_arguments(command: argparse.ArgumentParser) -> None:
         command.add_argument("--data-file", type=Path, default=DEFAULT_DATA_FILE)
-        command.add_argument("--limit", type=_bounded_int(1, 100), default=100)
+        command.add_argument(
+            "--limit",
+            type=_bounded_int(1, 100),
+            default=100,
+            help="number of companies to fetch per sector (tech and energy)",
+        )
         command.add_argument("--workers", type=_bounded_int(1, 16), default=4)
         command.add_argument("--default-products-score", type=_score, default=50.0)
 

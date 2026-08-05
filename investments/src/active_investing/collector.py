@@ -20,7 +20,9 @@ from urllib3.util.retry import Retry
 from .io_utils import read_csv, write_csv_atomic
 
 LOGGER = logging.getLogger(__name__)
-SOURCE_URL = "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/"
+TECH_SOURCE_URL = "https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/"
+ENERGY_SOURCE_URL = "https://companiesmarketcap.com/energy/largest-companies-by-market-cap/"
+SOURCE_URLS = (("tech", TECH_SOURCE_URL), ("energy", ENERGY_SOURCE_URL))
 YAHOO_QUOTE_URL = "https://finance.yahoo.com/quote/{ticker}/?guccounter=2"
 YAHOO_CHART_URL = (
     "https://query1.finance.yahoo.com/v8/finance/chart/{ticker}?range=1y&interval=1d&events=history"
@@ -32,6 +34,7 @@ HTTP_CHUNK_SIZE = 64 * 1024
 
 CSV_FIELDS = [
     "Source Rank",
+    "Sector",
     "Ticker",
     "Company Name",
     "Market Cap",
@@ -54,6 +57,7 @@ MANUAL_FIELDS = ("Products and services", "Products and services score")
 @dataclass(frozen=True)
 class CompanySeed:
     source_rank: int
+    sector: str
     ticker: str
     name: str
     market_cap: int
@@ -73,10 +77,12 @@ class HttpPayload:
         return json.loads(self.content)
 
 
-def parse_top_companies(html: str, limit: int = 100) -> list[CompanySeed]:
-    """Parse the CompaniesMarketCap technology table and validate each row."""
+def parse_top_companies(html: str, sector: str = "tech", limit: int = 100) -> list[CompanySeed]:
+    """Parse a CompaniesMarketCap sector table and validate each row."""
     if not 1 <= limit <= 100:
         raise ValueError("limit must be between 1 and 100")
+    if sector not in {"tech", "energy"}:
+        raise ValueError("sector must be either 'tech' or 'energy'")
 
     soup = BeautifulSoup(html, "html.parser")
     companies: list[CompanySeed] = []
@@ -103,7 +109,7 @@ def parse_top_companies(html: str, limit: int = 100) -> list[CompanySeed]:
         if ticker in seen_tickers:
             continue
 
-        companies.append(CompanySeed(source_rank, ticker, name, market_cap))
+        companies.append(CompanySeed(source_rank, sector, ticker, name, market_cap))
         seen_tickers.add(ticker)
         if len(companies) == limit:
             break
@@ -116,10 +122,24 @@ def parse_top_companies(html: str, limit: int = 100) -> list[CompanySeed]:
 
 
 def fetch_top_companies(limit: int = 100) -> list[CompanySeed]:
-    """Download and parse the current top technology companies."""
+    """Download and parse the current top companies for each tracked sector."""
+    top_companies: list[CompanySeed] = []
+    seen_tickers: set[str] = set()
     with _build_session() as session:
-        response = _get(session, SOURCE_URL, accept="text/html")
-    return parse_top_companies(response.text, limit)
+        for sector, source_url in SOURCE_URLS:
+            response = _get(session, source_url, accept="text/html")
+            companies = parse_top_companies(response.text, sector=sector, limit=limit)
+            for company in companies:
+                if company.ticker in seen_tickers:
+                    LOGGER.warning(
+                        "Skipping duplicate ticker across sectors: %s (%s)",
+                        company.ticker,
+                        sector,
+                    )
+                    continue
+                seen_tickers.add(company.ticker)
+                top_companies.append(company)
+    return top_companies
 
 
 def _finite_number(value: Any) -> float | None:
@@ -282,6 +302,7 @@ def _fetch_financial_data(seed: CompanySeed) -> dict[str, object]:
     description = " ".join(description.split())[:4_000]
     return {
         "Source Rank": seed.source_rank,
+        "Sector": seed.sector,
         "Ticker": seed.ticker,
         "Company Name": seed.name,
         "Market Cap": seed.market_cap,
@@ -344,6 +365,7 @@ def collect_records(
                 LOGGER.warning("Could not collect %s: %s", seed.ticker, error)
                 record = {
                     "Source Rank": seed.source_rank,
+                    "Sector": seed.sector,
                     "Ticker": seed.ticker,
                     "Company Name": seed.name,
                     "Market Cap": seed.market_cap,

@@ -28,12 +28,14 @@ max_pb_ratio = 30
 min_revenue_growth = 0
 min_profit_margin = 0
 min_products_score = 50
+min_rebound_from_low = 0.05
 """.strip(),
         encoding="utf-8",
     )
 
     record = {
         "Source Rank": 1,
+        "Sector": "tech",
         "Ticker": "EXM",
         "Company Name": "Example",
         "Market Cap": 100,
@@ -45,6 +47,8 @@ min_products_score = 50
         "Products and services score": 70,
         "Undervalued score": 60,
         "Volatility score": 40,
+        "Current Price": 110,
+        "52-Week Low": 100,
     }
 
     def fake_collect(output_path, **kwargs):
@@ -73,8 +77,8 @@ min_products_score = 50
     assert exit_code == 0
     assert data_path.is_file()
     assert ranking_path.read_text(encoding="utf-8").splitlines() == [
-        "Company Name,Weighted Score",
-        "Example,81.43",
+        "Ticker,Company Name,Sector,Weighted Score,Valuation Score,Fundamentals Score,Undervalued Score,Volatility Score,Rebound From Low",
+        "EXM,Example,tech,81.43,100.0,90.0,60.0,40.0,0.1",
     ]
 
 

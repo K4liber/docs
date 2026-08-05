@@ -24,6 +24,7 @@ def config(focus: str | None = None) -> RankingConfig:
         min_revenue_growth=0,
         min_profit_margin=0,
         min_products_score=50,
+        min_rebound_from_low=0.05,
     )
 
 
@@ -31,6 +32,7 @@ def row(name: str, ticker: str, **overrides: str) -> dict[str, str]:
     values = {
         "Company Name": name,
         "Ticker": ticker,
+        "Sector": "tech",
         "P/E Ratio": "20",
         "P/B Ratio": "4",
         "Revenue Growth": "0.15",
@@ -38,6 +40,8 @@ def row(name: str, ticker: str, **overrides: str) -> dict[str, str]:
         "Products and services score": "70",
         "Undervalued score": "60",
         "Volatility score": "40",
+        "Current Price": "110",
+        "52-Week Low": "100",
     }
     values.update(overrides)
     return values
@@ -66,6 +70,48 @@ def test_rank_rows_excludes_product_score_above_100() -> None:
     rows = [row("Invalid", "AAA", **{"Products and services score": "101"})]
 
     assert rank_rows(rows, config()) == []
+
+
+def test_rank_rows_excludes_companies_without_rebound_confirmation() -> None:
+    rows = [row("No Rebound", "AAA", **{"Current Price": "102", "52-Week Low": "100"})]
+
+    assert rank_rows(rows, config()) == []
+
+
+def test_rank_rows_uses_sector_relative_normalization() -> None:
+    rows = [
+        row("Tech Better", "T1", Sector="tech", **{"P/E Ratio": "10", "P/B Ratio": "2"}),
+        row("Tech Worse", "T2", Sector="tech", **{"P/E Ratio": "30", "P/B Ratio": "6"}),
+        row(
+            "Energy Better",
+            "E1",
+            Sector="energy",
+            **{"P/E Ratio": "5", "P/B Ratio": "1", "Revenue Growth": "0.10", "Profit Margin": "0.15"},
+        ),
+        row(
+            "Energy Worse",
+            "E2",
+            Sector="energy",
+            **{"P/E Ratio": "25", "P/B Ratio": "5", "Revenue Growth": "0.10", "Profit Margin": "0.15"},
+        ),
+    ]
+
+    ranked = rank_rows(rows, config(focus="pe_ratio"))
+
+    assert ranked[0]["Company Name"] in {"Tech Better", "Energy Better"}
+    assert ranked[-1]["Company Name"] in {"Tech Worse", "Energy Worse"}
+
+
+def test_rank_rows_includes_explainability_columns() -> None:
+    ranked = rank_rows([row("Example", "AAA")], config())
+
+    assert ranked[0]["Ticker"] == "AAA"
+    assert ranked[0]["Sector"] == "tech"
+    assert "Valuation Score" in ranked[0]
+    assert "Fundamentals Score" in ranked[0]
+    assert "Undervalued Score" in ranked[0]
+    assert "Volatility Score" in ranked[0]
+    assert "Rebound From Low" in ranked[0]
 
 
 @pytest.mark.parametrize(
