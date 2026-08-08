@@ -7,15 +7,21 @@
 - No nicotine.
 - Max 2 portions of coffee (1 portion is an espresso or a tea, or a can of soda).
 - Last meal should be before 8pm.
-- Target bedtime is 10:30pm.
+- Target bedtime is 11:00pm.
 - 8 hours of sleep.
 - Half an hour relaxing with memes/music/podcast/book before going to sleep.
 - 1-2 portions of electrolytes every day (especially magnesium and potassium).
 - Calisthenic session 3 times per week (push, pull, core).
-- Jogging 3 times per week.
+- Cardio 3 times per week (jogging, cycling, football, etc.).
 - Max naptime is 12 minutes.
 
 ## Changelog
+
+### 2026-08-08
+
+Changed "Jogging 3 times per week." to "Cardio 3 times per week (jogging, cycling, football, etc.)".
+
+Changed "Target bedtime is 10:30pm." to "Target bedtime is 11:00pm."
 
 ### 2026-06-27
 

@@ -6,22 +6,25 @@
 
 I have multimedia from Potoczek chat from 2020-2024, but not from 2025.
 
-- [ ] Download missing photos and videos from 2025 to my mom's Google Drive
-- [ ] Upload 2020-2024 photos to an external drive and upload to my mom's Google Drive
+- [x] Download missing photos and videos from 2025 to my mom's Google Drive
+- [x] Upload 2020-2024 photos to an external drive and upload to my mom's Google Drive
+- [ ] Check if all photos and videos are uploaded
 
 ## TODO
-
-### 17. Buy electrolytes
-
-### 16. Buy few pairs of comfortable socks
-
-- [ ] https://allegro.pl/produkt/skarpety-sportowe-z-palcami-cienkie-run-lightweight-mini-crew-ii-m-czarny-0a0013ad-a290-4cf9-8414-276e1c1c8a6b?offerId=17967934258&context=6d3a3af21944173aec5e42a74ea035caed70ed5efb543ac3eb271277bb7438f0a6a4563c1bb74d1086f68518ea758849a7f67e0e38e03e3b29e83a092a50bc11d43b68f63da10f70a73b301461cff22329cd5b376e028a793d9926ac79e48f9c310e51f360456742c4f86df469075b1a20240bc2b78d361f091015e19ac23f4e6f5f4c3215777bf31016630a9f5ce09d&sellerHasChanged=false&fromVariant=17773615163
 
 ### 9. Change the internet agreement to the new address
 
 ### 5. Plan a one week trip with Ashima
 
 ## DONE
+
+### 17. Buy electrolytes
+
+### 16. Buy few pairs of comfortable socks
+
+- [x] Socks from Decathlon
+- [x] https://allegro.pl/oferta/skarpety-sportowe-z-palcami-cienkie-run-lightweight-mini-crew-ii-m-czarny-17967934258
+- [x] https://allegro.pl/oferta/skarpety-sportowe-z-palcami-biegowe-run-lightweight-no-show-ii-l-czarny-17968128776
 
 ### 15. Buy a stock on IKE&IKZE
 
