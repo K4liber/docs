@@ -16,6 +16,15 @@ I have multimedia from Potoczek chat from 2020-2024, but not from 2025.
 
 ### 5. Plan a one week trip with Ashima
 
+### 18. Buy linen articles
+
+- [ ] linen towel
+- [ ] linen sheets
+- [ ] linen pillowcases
+- [ ] linen duvet cover
+- [ ] linen long-sleeve shirt
+- [ ] linen shorts
+
 ## DONE
 
 ### 17. Buy electrolytes
