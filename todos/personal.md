@@ -10,20 +10,16 @@ I have multimedia from Potoczek chat from 2020-2024, but not from 2025.
 - [x] Upload 2020-2024 photos to an external drive and upload to my mom's Google Drive
 - [ ] Check if all photos and videos are uploaded
 
+### 18. Buy linen articles
+
+- [x] linen small-towel
+- [ ] linen towel x 2
+
 ## TODO
 
 ### 9. Change the internet agreement to the new address
 
 ### 5. Plan a one week trip with Ashima
-
-### 18. Buy linen articles
-
-- [ ] linen towel
-- [ ] linen sheets
-- [ ] linen pillowcases
-- [ ] linen duvet cover
-- [ ] linen long-sleeve shirt
-- [ ] linen shorts
 
 ## DONE
 
