@@ -10,10 +10,22 @@ I have multimedia from Potoczek chat from 2020-2024, but not from 2025.
 - [x] Upload 2020-2024 photos to an external drive and upload to my mom's Google Drive
 - [ ] Check if all photos and videos are uploaded
 
-### 18. Buy linen articles
+### 18. Buy bedroom/bathroom articles
 
 - [x] linen small-towel
-- [ ] linen towel x 2
+- [ ] linen-cotton small-towel
+- [ ] linen towel
+- [ ] linen towel - high quality
+- [ ] pillow
+
+### 19. Buy a shirt for the wedding
+
+- [ ] https://www.lancerto.com/pl/koszula-bezowa-z-lnem-leisha-ko073124000021-bez.html
+
+### 20. Buy a zero nicotine vape for the wedding
+
+- [ ] Ask Aga if the place where she bought her vape sells zero nicotine vapes
+- [ ] Check the vape shop around the Central Railway Station in Warsaw if they sell zero nicotine vapes
 
 ## TODO
 
