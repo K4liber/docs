@@ -14,9 +14,10 @@ I have multimedia from Potoczek chat from 2020-2024, but not from 2025.
 
 - [x] linen small-towel
 - [ ] linen-cotton small-towel
-- [ ] linen towel
-- [ ] linen towel - high quality
-- [ ] pillow
+- [x] linen towel
+- [ ] linen towel - high quality (https://desayer.pl/pl/p/LNIANY-RECZNIK-WAFEL-ECRU/295)
+- [x] pillow from buckwheat
+- [ ] linen pillowcase
 
 ### 19. Buy a shirt for the wedding
 
@@ -28,6 +29,12 @@ I have multimedia from Potoczek chat from 2020-2024, but not from 2025.
 - [ ] Check the vape shop around the Central Railway Station in Warsaw if they sell zero nicotine vapes
 
 ## TODO
+
+### 22. Buy a bedroom stool
+
+### 21. [20260930] Send proposal to PyCon Wroclaw 2026
+
+- [ ] https://cfp.pyconwroclaw.com/pycon-wroclaw-2026/cfp
 
 ### 9. Change the internet agreement to the new address
 
