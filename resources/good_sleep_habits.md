@@ -6,8 +6,8 @@
 - No sugar.
 - No nicotine.
 - Max 2 portions of coffee (1 portion is an espresso or a tea, or a can of soda).
-- Last meal should be before 8pm.
-- Target bedtime is 11:00pm.
+- Last meal should be at least 3 hours before going to sleep.
+- Target bedtime is 10-11:00pm.
 - 8 hours of sleep.
 - Half an hour relaxing with memes/music/podcast/book before going to sleep.
 - 1-2 portions of electrolytes every day (especially magnesium and potassium).
@@ -16,6 +16,12 @@
 - Max naptime is 12 minutes.
 
 ## Changelog
+
+### 2026-08-29
+
+Changed "Last meal should be before 8pm." -> "Last meal should be at least 3 hours before going to sleep.".
+
+Changed "Target bedtime is 11:00pm." -> "Target bedtime is 10-11:00pm.".
 
 ### 2026-08-08
 

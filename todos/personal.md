@@ -1,3 +1,5 @@
+# Personal TODOs
+
 ## IN PROGRESS
 
 ### 10. Send Messenger photos to my mom
@@ -19,18 +21,12 @@ I have multimedia from Potoczek chat from 2020-2024, but not from 2025.
 - [x] pillow from buckwheat
 - [ ] linen pillowcase
 
-### 19. Buy a shirt for the wedding
-
-- [ ] https://www.lancerto.com/pl/koszula-bezowa-z-lnem-leisha-ko073124000021-bez.html
-
-### 20. Buy a zero nicotine vape for the wedding
-
-- [ ] Ask Aga if the place where she bought her vape sells zero nicotine vapes
-- [ ] Check the vape shop around the Central Railway Station in Warsaw if they sell zero nicotine vapes
-
 ## TODO
 
-### 22. Buy a bedroom stool
+### 23. Change the chain on my bike
+
+- [ ] Buy the same chain as the one I have now
+- [ ] Change the chain on my bike
 
 ### 21. [20260930] Send proposal to PyCon Wroclaw 2026
 
@@ -38,9 +34,21 @@ I have multimedia from Potoczek chat from 2020-2024, but not from 2025.
 
 ### 9. Change the internet agreement to the new address
 
-### 5. Plan a one week trip with Ashima
+### 5. Plan a one week trip in September/October
+
+- [ ] talk with Ashima if she wants to together
 
 ## DONE
+
+### 20. Buy a zero nicotine vape for the wedding
+
+- [x] Ask Aga if the place where she bought her vape sells zero nicotine vapes
+
+They do not sell zero nicotine vapes.
+
+- [x] Check the vape shop around the Central Railway Station in Warsaw if they sell zero nicotine vapes
+
+They do not have those in shops anymore, illegal.
 
 ### 17. Buy electrolytes
 
@@ -122,3 +130,13 @@ I will go by myself.
 ### 11. Fix the shower handle (Świetlików)
 
 - [x] In a different mode it actually works fine
+
+### 22. Buy a bedroom stool
+
+I dont fucking need it.
+
+### 19. Buy a shirt for the wedding
+
+- [ ] https://www.lancerto.com/pl/koszula-bezowa-z-lnem-leisha-ko073124000021-bez.html
+
+Fuck it, I wear shirt twice a year, I dont need to buy a new one.
