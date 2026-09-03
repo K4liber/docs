@@ -15,11 +15,11 @@ I have multimedia from Potoczek chat from 2020-2024, but not from 2025.
 ### 18. Buy bedroom/bathroom articles
 
 - [x] linen small-towel
-- [ ] linen-cotton small-towel
+- [x] linen-cotton small-towel
 - [x] linen towel
-- [ ] linen towel - high quality (https://desayer.pl/pl/p/LNIANY-RECZNIK-WAFEL-ECRU/295)
+- [ ] cotton towel - high quality (Zara, the one Nadia lent me)
 - [x] pillow from buckwheat
-- [ ] linen pillowcase
+- [x] linen pillowcase
 
 ## TODO
 
