@@ -21,6 +21,14 @@ I have multimedia from Potoczek chat from 2020-2024, but not from 2025.
 - [x] pillow from buckwheat
 - [x] linen pillowcase
 
+### 5. Plan a one week trip in September/October
+
+- [x] talk with Ashima if she wants to go together
+
+No. I want to visit some cities, she prefers beaches and chill. 
+
+- [ ] Maybe the North-East of Italy?
+
 ## TODO
 
 ### 23. Change the chain on my bike
@@ -33,10 +41,6 @@ I have multimedia from Potoczek chat from 2020-2024, but not from 2025.
 - [ ] https://cfp.pyconwroclaw.com/pycon-wroclaw-2026/cfp
 
 ### 9. Change the internet agreement to the new address
-
-### 5. Plan a one week trip in September/October
-
-- [ ] talk with Ashima if she wants to together
 
 ## DONE
 

@@ -1,4 +1,4 @@
-# 20260718
+# EuroPython 2026
 
 Coming back from EuroPython 2026. The community is very friendly, welcoming and inclusive.
 
