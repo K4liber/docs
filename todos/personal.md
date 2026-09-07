@@ -12,15 +12,6 @@ I have multimedia from Potoczek chat from 2020-2024, but not from 2025.
 - [x] Upload 2020-2024 photos to an external drive and upload to my mom's Google Drive
 - [ ] Check if all photos and videos are uploaded
 
-### 18. Buy bedroom/bathroom articles
-
-- [x] linen small-towel
-- [x] linen-cotton small-towel
-- [x] linen towel
-- [ ] cotton towel - high quality (Zara, the one Nadia lent me)
-- [x] pillow from buckwheat
-- [x] linen pillowcase
-
 ### 5. Plan a one week trip in September/October
 
 - [x] talk with Ashima if she wants to go together
@@ -36,13 +27,22 @@ No. I want to visit some cities, she prefers beaches and chill.
 - [ ] Buy the same chain as the one I have now
 - [ ] Change the chain on my bike
 
-### 21. [20260930] Send proposal to PyCon Wroclaw 2026
-
-- [ ] https://cfp.pyconwroclaw.com/pycon-wroclaw-2026/cfp
-
 ### 9. Change the internet agreement to the new address
 
 ## DONE
+
+### 21. [20260930] Send proposal to PyCon Wroclaw 2026
+
+- [x] https://cfp.pyconwroclaw.com/pycon-wroclaw-2026/cfp
+
+### 18. Buy bedroom/bathroom articles
+
+- [x] linen small-towel
+- [x] linen-cotton small-towel
+- [x] linen towel
+- [x] cotton towel - high quality (Zara, the one Nadia lent me)
+- [x] pillow from buckwheat
+- [x] linen pillowcase
 
 ### 20. Buy a zero nicotine vape for the wedding
 
