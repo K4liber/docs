@@ -18,7 +18,15 @@ I have multimedia from Potoczek chat from 2020-2024, but not from 2025.
 
 No. I want to visit some cities, she prefers beaches and chill. 
 
-- [ ] Maybe the North-East of Italy?
+- [x] Maybe the North-East of Italy?
+
+Yes, Mediolan and then to the south, to the sea.
+
+- [x] Books fligts
+- [x] Book a hotel in Mediolan
+- [x] Book a hotel in Piza
+- [ ] Book a hotel in Genua
+- [ ] Book a hotel in La Spezia
 
 ## TODO
 
