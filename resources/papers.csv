@@ -1,10 +1,10 @@
-title,author(s),publish year,started,finished
-Testing for Competence Rather Than for 'Intelligence',David McClelland,1973,20260621,20260621
-Role of Physical Activity on Mental Health and Well-Being: A Review,"Aditya Mahindru, Pradeep Patil, Varun Agrawal",2023,20260726,20260726
-Attention Is All You Need,"Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin",2017,20260916,20260916
-Wüster’s View of Terminology,Mitja Trojar,2017,20260920,20260921
+title,author(s),publish year,started,progress,finished
+Testing for Competence Rather Than for 'Intelligence',David McClelland,1973,20260621,100%,20260621
+Role of Physical Activity on Mental Health and Well-Being: A Review,"Aditya Mahindru, Pradeep Patil, Varun Agrawal",2023,20260726,100%,20260726
+Attention Is All You Need,"Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin",2017,20260916,100%,20260916
+Wüster’s View of Terminology,Mitja Trojar,2017,20260920,100%,20260921
 "The General Theory of Terminology: A Literature
-Review and a Critical discussion",Kirsten Packeiser,2009,20260923,
-How complex systems fail,Richard Cook,2002,,
-A General Model for the Origin of Allometric Scaling Laws in Biology,"Geoffrey B. West, James H. Brown, and Brian J. Enquist",1997,,
-The Simple Mathematics of Large Language Models,Joseph Breeden,2025,,
+Review and a Critical discussion",Kirsten Packeiser,2009,20260923,40/84,
+How complex systems fail,Richard Cook,2002,,,
+A General Model for the Origin of Allometric Scaling Laws in Biology,"Geoffrey B. West, James H. Brown, and Brian J. Enquist",1997,,,
+The Simple Mathematics of Large Language Models,Joseph Breeden,2025,,,
