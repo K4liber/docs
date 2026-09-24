@@ -12,6 +12,17 @@ I have multimedia from Potoczek chat from 2020-2024, but not from 2025.
 - [x] Upload 2020-2024 photos to an external drive and upload to my mom's Google Drive
 - [ ] Check if all photos and videos are uploaded
 
+## TODO
+
+### 23. Change the chain on my bike
+
+- [ ] Buy the same chain as the one I have now
+- [ ] Change the chain on my bike
+
+### 9. Change the internet agreement to the new address
+
+## DONE
+
 ### 5. Plan a one week trip in September/October
 
 - [x] talk with Ashima if she wants to go together
@@ -25,19 +36,8 @@ Yes, Mediolan and then to the south, to the sea.
 - [x] Books fligts
 - [x] Book a hotel in Mediolan
 - [x] Book a hotel in Piza
-- [ ] Book a hotel in Genua
-- [ ] Book a hotel in La Spezia
-
-## TODO
-
-### 23. Change the chain on my bike
-
-- [ ] Buy the same chain as the one I have now
-- [ ] Change the chain on my bike
-
-### 9. Change the internet agreement to the new address
-
-## DONE
+- [x] Book a hotel in Genua
+- [x] Book a hotel in La Spezia
 
 ### 21. [20260930] Send proposal to PyCon Wroclaw 2026
 
