@@ -6,7 +6,7 @@
 
 ### 4. [HEALTH] Do a muscle-up
 
-### 5. [HEALTH] Do a handstand for 10 seconds
+### 5. [HEALTH] Do a handstand (without support) for 10 seconds
 
 ## TODO
 
@@ -14,7 +14,7 @@
 
 Requirements:
 
-- [ ] Two bedrooms
+- [ ] Two bedrooms with king-size beds
 - [ ] Big salone
 - [ ] Build after 2000
 - [ ] Less than 30 minutes to the city center
@@ -22,7 +22,12 @@ Requirements:
 ### 2. [TRAVEL/CULTURE] Travel to Japan
 
 - [ ] Find a company (one person is enough)
+- [ ] Book flights
 
 ### 6. [TRAVEL/HOBBY] Watch a Premier League match in the stadium
 
-### 7. [WORK] Create a "System Design" DefinIT course
+### 7. [WORK] Create the next DefinIT course ("System desing", "Computer hardware", "Computer networks"?)
+
+### 8. [LEARNING] Learn Esperanto
+
+- [ ] Read "Język międzynarodowy. Przedmowa i podręcznik kompletny" by L. L. Zamenhof
