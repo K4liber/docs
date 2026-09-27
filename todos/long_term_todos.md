@@ -26,7 +26,7 @@ Requirements:
 
 ### 6. [TRAVEL/HOBBY] Watch a Premier League match in the stadium
 
-### 7. [WORK] Create the next DefinIT course ("System desing", "Computer hardware", "Computer networks"?)
+### 7. [WORK] Create the next DefinIT course ("System desing", "Computer hardware", "Computer networks", "Test-Driven System Design"?)
 
 ### 8. [LEARNING] Learn Esperanto
 

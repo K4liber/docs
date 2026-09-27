@@ -14,7 +14,7 @@ I want to work on something that is useful and valuable for people. It's not abo
 
 ### 3. Money
 
-I want to earn enough money to have the financial security to pursue my goals and interests. I would also like in the near future be a provider for my family. I rather spend my money carefully so one could say I am not a money-driven person, but I do want to earn more money to have more freedom of choice.
+I want to earn enough money to have the financial security to pursue my goals and interests. I would also like in the near future be a provider for my family. I rather spend my money carefully so one could say I am not a money-driven person, but I do want to earn more money to have more freedom of choice. I believe, that at some point in the future, money will be less and less important, not only for me, but for the society as a whole. I would like to be part of this change and contribute to it. To achieve this, I would like to work on projects that are useful for people and society, and bring a value that we all benefit from.
 
 ### 4. Other
 
@@ -22,17 +22,17 @@ I want to earn enough money to have the financial security to pursue my goals an
 - Fun
 - Health
 
-## Skills
+## Technical Skills
 
 "If you can build a verification system and give a proper direction, LLMs can produce a highly complex, highly sophisticated piece of software and it can continue to refine it unitl it just works." ~Paul Dix
 
-### 1. Automated testing
-
-...
-
-### 2. System design and architecture
+### 1. System design and architecture
 
 In the era of high-capability LLMs, the high-quality, low-level programming skills are already included in the LLM answer. Humans still need to have an expertise in low-level programming, do review, and understand the code, but the main value of humans is in system design and architecture. We automatically spent more time on a high-level abstraction of the system since a low-level implementation can be delegated to the LLM.
+
+### 2. Automated testing
+
+There is a popular concept called Test-Driven Development (TDD). It has pros and cons, and generally it operates on a low level of the system (e.g., unit tests). I would like to focus on a higher level of testing, which is more about the system as a whole. I want to be able to design and implement a system that can be tested automatically, and the tests should be able to verify the correctness of the system. I would like to learn more about "Test-Driven System Design" (there is no such a concept yet, I just invented it), in theory, and in practice, I would like to be able to apply it in my work.
 
 ## Positions
 
@@ -48,4 +48,7 @@ For me, an Application Architect and a Full Stack Developer are very similar pos
 
 ### Orsted
 
-...
+I learn a lot from Orsted, I can satisfy my curiosity (1), but not exactly in the same areas that I would like to explore. More or less, its ok when it comes to the first point of my motivations. The company also fulfills my motivation to work on meaningful value (2). The renewable energy sector was "the thing" that brought my attention to Orsted. Money is ok (3), but it could be better. I can find some other companies that pay better, but not necessarily those are better in terms of the first two points. I like the people I work with (4), I learn from them everyday. I generally like coming to the office, its fun most of the time.
+
+### Any other company
+
