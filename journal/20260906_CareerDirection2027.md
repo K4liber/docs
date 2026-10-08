@@ -6,21 +6,32 @@ Just a short note about what motivates me to work for a specific employer or on 
 
 ### 1. Curiosity and self-development
 
-I want to understand how things work, how people work, how society works, how the universe works. I want to understand the "why" behind things. As far as I learn something about the world, people, myself, company, IT systems, LLMs, energy systems I feel better and fulfilled. I like to approach every day with a mindset of curiosity and learning: "What can I understand today? What can I learn from doing my work today?"
+I want to understand how things work, how people work, how society works, how the universe works. I want to understand the "why" behind things. It is also quite important to not go all the way, but focus on specific areas. Otherwise I will know almost nothing about everything, and I will not be able to contribute with a high level of expertise. I would like to deeply understand the following areas:
+- myself
+- people
+- psychology
+- well-being
+- companies
+- society
+- physics
+- computers
+- IT systems
+- LLMs
+- energy systems
+
+I like to approach every day with a mindset of curiosity and learning: "What can I understand today? What can I learn from doing my work today?"
 
 ### 2. Meaningful value
 
-I want to work on something that is useful and valuable for people. It's not about just applying my skills and knowledge to do anything judged as valuable by someone else. It's about working on a problem or project that I find meaningful. And I find meaningful value in things that are useful for people, society.
+I want to work on something that is useful and valuable for people. It's not about just applying my skills and knowledge to do anything judged as valuable by someone else. It's about working on a problem or project that I find meaningful. And I find meaningful value in things that are useful for people.
 
 ### 3. Money
 
 I want to earn enough money to have the financial security to pursue my goals and interests. I would also like in the near future be a provider for my family. I rather spend my money carefully so one could say I am not a money-driven person, but I do want to earn more money to have more freedom of choice. I believe, that at some point in the future, money will be less and less important, not only for me, but for the society as a whole. I would like to be part of this change and contribute to it. To achieve this, I would like to work on projects that are useful for people and society, and bring a value that we all benefit from.
 
-### 4. Other
+### 4. People and fun
 
-- People
-- Fun
-- Health
+I want to have fun at work, and its only possible with people I like and respect.
 
 ## Technical Skills
 
@@ -36,20 +47,20 @@ There is a popular concept called Test-Driven Development (TDD). It has pros and
 
 ## Employer
 
-### Orsted
+### Ørsted
 
-I learn a lot from Orsted, I can satisfy my curiosity (1), but not exactly in the same areas that I would like to explore. More or less, its ok when it comes to the first point of my motivations. The company also fulfills my motivation to work on meaningful value (2). The renewable energy sector was "the thing" that brought my attention to Orsted. Money is ok (3), but it could be better. I can find some other companies that pay better, but not necessarily those are better in terms of the first two points. I like the people I work with (4), I learn from them everyday. I generally like coming to the office, its fun most of the time.
+I learn a lot from Ørsted, I can satisfy my curiosity (1), but not exactly in the same areas that I would like to explore. More or less, its ok when it comes to the first point of my motivations. The company also fulfills my motivation to work on meaningful value (2). The renewable energy sector was "the thing" that brought my attention to Ørsted. Money is ok (3), but it could be better. I can find some other companies that pay better, but not necessarily those are better in terms of the first two points. I like the people I work with (4), I learn from them everyday. I generally like coming to the office, its fun most of the time.
 
-#### Positions I am interested in at Orsted
+#### Positions I am interested in at Ørsted
 
-##### Solution Architect in engineering
+##### Lead Full Stack Developer/Application Architect in Digital Technology -> Engineering
 
-For me, an Application Architect and a Full Stack Developer are very similar positions. Developers do design and architecture of applications, but they also do implementation. Solution Architect seems to operate on a higher level. I would assume, it is recommended to not touch the code at all at this position. Mostly talking with people. I would miss a building part of my job and an mostly-empty calendar.
+I would like to get a significant salary increase and be promoted to a Lead Full Stack Developer/Application Architect position. For me, an Application Architect and a Full Stack Developer are very similar positions. Developers do design and architecture of applications, but they also do implementation.
 
-##### Lead Full Stack Developer in FOU-GEO Core Tool Team
+##### Solution Architect in Digital Technology -> Engineering
 
-I would like to get a significant salary increase and be promoted to a Lead Full Stack Developer position.
+Solution Architect seems to operate on a higher level. I would assume, it is recommended to not touch the code at all at this position. Mostly talking with business stakeholders. I would miss a building part of my job and an mostly-empty calendar.
 
 ### Any other company
 
-I need to do a research of what companies are out there, what they do, and how they operate. I didn't do it since I joined Orsted. But at some point I will do it. 
+I need to do a research of what companies are out there, what they do, and how they operate. I didn't do it since I joined Ørsted. But at some point I will do it. 
