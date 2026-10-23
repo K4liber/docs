@@ -14,10 +14,13 @@
 
 Requirements:
 
-- [ ] Two bedrooms with king-size beds
-- [ ] Big salone
+- [ ] One bedroom with king-size bed and a place for a desk
+- [ ] Big/medium salone
 - [ ] Build after 2000
 - [ ] Less than 30 minutes to the city center
+- [ ] Park available nearby for walking and running
+- [ ] Shower in the bathroom (not a bathtub)
+- [ ] 40-50 m²
 
 ### 2. [TRAVEL/CULTURE] Travel to Japan
 
@@ -31,3 +34,8 @@ Requirements:
 ### 8. [LEARNING] Learn Esperanto
 
 - [ ] Read "Język międzynarodowy. Przedmowa i podręcznik kompletny" by L. L. Zamenhof
+
+### 9. [TRAVEL/CULTURE] Travel to London
+
+- [ ] Find a company (one person is enough)
+- [ ] Book flights
