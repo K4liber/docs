@@ -4,8 +4,8 @@
 
 - No alcohol (with the exception of one portion in the sake of "tasting").
 - No nicotine.
-- No sugar (with the exception of fruits and desserts occasionally).
-- Max 2 (occasionally I can have a third) portions of coffee (1 portion is an espresso or a tea, or a can of soda).
+- No sugar (with the exception of fruits and desserts).
+- Max 3 portions of coffee (1 portion is an espresso or a tea, or a can of soda).
 - Target dinner time is 6-7pm.
 - Target bedtime is 10-11:00pm.
 - 8 hours of sleep.
@@ -14,6 +14,8 @@
 - Calisthenic session 3 times per week (push, pull, core).
 - Cardio 3 times per week (jogging, cycling, football, etc.).
 - Max naptime is 12 minutes.
+- No eating dairy products (with the exception of a small amount as one of the negligible component of a meal/food).
+- 4 meals per day (breakfast, lunch, snack/desert, dinner).
 
 ## Old habits
 
