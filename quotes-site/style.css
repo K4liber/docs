@@ -90,3 +90,41 @@ h1 { font-size: 2.2rem; margin: 0; }
   font-family: system-ui, sans-serif;
   font-size: 0.75rem;
 }
+
+.card .index {
+  position: absolute;
+  top: 0.6rem;
+  right: 0.7rem;
+  color: var(--muted);
+  font-family: system-ui, sans-serif;
+  font-size: 0.7rem;
+  opacity: 0.7;
+}
+
+.card { position: relative; }
+
+.pager {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.35rem;
+  margin-top: 2rem;
+  flex-wrap: wrap;
+}
+
+.pager button {
+  font-family: system-ui, sans-serif;
+  font-size: 0.85rem;
+  min-width: 2.1rem;
+  padding: 0.3rem 0.55rem;
+  border: 1px solid var(--muted);
+  border-radius: 6px;
+  background: var(--card);
+  color: var(--fg);
+  cursor: pointer;
+}
+
+.pager button:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+.pager button.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+.pager button:disabled { opacity: 0.35; cursor: default; }
+.pager .ellipsis { color: var(--muted); font-family: system-ui, sans-serif; }

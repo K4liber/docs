@@ -3,19 +3,18 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Quotes — semantic search</title>
+  <title>My favourite quotes</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <main>
-    <h1>Quotes</h1>
-    <p class="subtitle">Search by meaning, not by words.</p>
+    <h1>My favourite quotes</h1>
 
     <div class="search-row">
       <input
         id="search"
         type="search"
-        placeholder='e.g. "dealing with hard times"'
+        placeholder='e.g. "staying motivated through challenges"'
         autocomplete="off"
         autofocus
         disabled
@@ -24,9 +23,11 @@
     </div>
 
     <ul id="results" class="results"></ul>
+    <nav id="pager" class="pager"></nav>
 
     <template id="card">
       <li class="card">
+        <span class="index"></span>
         <blockquote></blockquote>
         <cite></cite>
       </li>
