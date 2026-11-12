@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quotes — semantic search</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main>
+    <h1>Quotes</h1>
+    <p class="subtitle">Search by meaning, not by words.</p>
+
+    <div class="search-row">
+      <input
+        id="search"
+        type="search"
+        placeholder='e.g. "dealing with hard times"'
+        autocomplete="off"
+        autofocus
+        disabled
+      />
+      <span id="status" class="status">loading model…</span>
+    </div>
+
+    <ul id="results" class="results"></ul>
+
+    <template id="card">
+      <li class="card">
+        <blockquote></blockquote>
+        <cite></cite>
+      </li>
+    </template>
+  </main>
+
+  <script type="module" src="main.js"></script>
+</body>
+</html>
