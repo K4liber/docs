@@ -15,12 +15,11 @@
 Requirements:
 
 - [ ] One bedroom with king-size bed and a place for a desk
-- [ ] Big/medium salone
+- [ ] Big/medium salone together with a kitchen
 - [ ] Build after 2000
-- [ ] Less than 30 minutes to the city center
+- [ ] Max 1h walk to the city center
 - [ ] Park available nearby for walking and running
 - [ ] Shower in the bathroom (not a bathtub)
-- [ ] 40-50 m²
 
 ### 2. [TRAVEL/CULTURE] Travel to Japan
 

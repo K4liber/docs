@@ -2,6 +2,11 @@
 
 ## IN PROGRESS
 
+### 24. Fix flowers
+
+- [x] Order new pots and a plant support
+- [ ] Fix the flowers
+
 ### 10. Send Messenger photos to my mom
 
 - [x] Check if I have Messenger photos on the desktop of my private laptop
