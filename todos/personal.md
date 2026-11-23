@@ -2,6 +2,46 @@
 
 ## IN PROGRESS
 
+### 26. Decide about going to Andora for a New Year skiing trip
+
+### 25. Buy Christmas presents (up to ~50 PLN each)
+
+- [x] Choose present for my mom
+
+https://allegro.pl/oferta/kawa-mielona-etiopia-djimmah-100-arabica-swiezo-palona-250g-10887490334
+
+- [x] Choose present for my brother
+
+https://allegro.pl/oferta/uchwyty-do-pompek-drewniane-paraletki-antyposlizgowa-podstawa-porecze-25-cm-17731740971
+
+- [x] Choose present for my sister
+
+https://allegro.pl/oferta/ziaja-korzenny-piernik-kompleksowa-pielegnacja-o-magicznym-zapachu-18931453413
+
+- [x] Choose present for my brother-in-law
+
+https://allegro.pl/oferta/kawa-mielona-etiopia-djimmah-100-arabica-swiezo-palona-250g-10887490334
+
+- [x] Choose present for my nephew
+
+https://allegro.pl/oferta/porsche-911-gt3-mint-green-124-bburago-19055304372
+
+- [x] Choose present for my aunt
+
+https://allegro.pl/oferta/ziaja-korzenny-piernik-kompleksowa-pielegnacja-o-magicznym-zapachu-18931453413
+
+- [x] Choose present for my uncle
+
+https://allegro.pl/oferta/manfred-uglorz-atlas-golebi-polskie-rasy-18765268880
+
+- [x] Choose present for Adam
+
+https://allegro.pl/oferta/zestaw-herbat-na-prezent-owocowe-sypane-6-x-50-g-box-upominek-na-swieta-13769297142
+
+- [ ] Order all gifts
+
+- [ ] Bring all the gifts to my mom's place
+
 ### 10. Send Messenger photos to my mom
 
 - [x] Check if I have Messenger photos on the desktop of my private laptop
