@@ -2,11 +2,6 @@
 
 ## IN PROGRESS
 
-### 24. Fix flowers
-
-- [x] Order new pots and a plant support
-- [ ] Fix the flowers
-
 ### 10. Send Messenger photos to my mom
 
 - [x] Check if I have Messenger photos on the desktop of my private laptop
@@ -27,6 +22,11 @@ I have multimedia from Potoczek chat from 2020-2024, but not from 2025.
 ### 9. Change the internet agreement to the new address
 
 ## DONE
+
+### 24. Fix flowers
+
+- [x] Order new pots and a plant support
+- [x] Fix the flowers
 
 ### 5. Plan a one week trip in September/October
 

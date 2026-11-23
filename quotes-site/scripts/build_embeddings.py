@@ -10,7 +10,7 @@ from pathlib import Path
 from sentence_transformers import SentenceTransformer
 
 ROOT = Path(__file__).resolve().parents[2]
-CSV_PATH = ROOT / "resources" / "qutoes.csv"
+CSV_PATH = ROOT / "resources" / "quotes.csv"
 OUT_PATH = Path(__file__).resolve().parents[1] / "embeddings.json"
 MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
