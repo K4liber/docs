@@ -5,7 +5,7 @@ on:
     branches: [main]
     paths:
       - "quotes-site/**"
-      - "resources/qutoes.csv"
+      - "resources/quotes.csv"
   workflow_dispatch:
 
 permissions:

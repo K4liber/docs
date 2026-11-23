@@ -60,7 +60,10 @@ async function search(query) {
 
 // ---------- render ----------
 const PAGE_SIZE = 12;
-let currentResults = quotes.map((item, idx) => ({ item, idx, score: 1, sem: 1, kw: 0 }));
+// default view: dataset order, newest first (newest rows are appended at the end of the CSV)
+const defaultResults = () =>
+  quotes.map((item, idx) => ({ item, idx, score: 1, sem: 1, kw: 0 })).reverse();
+let currentResults = defaultResults();
 let page = 0;
 
 function makeCard({ item, idx, score, sem, kw }) {
@@ -129,7 +132,7 @@ function renderPager() {
   mk("›", page + 1, { disabled: page >= pages - 1 });
 }
 
-// default view: show all, in dataset order
+// default view: show all, newest first
 render();
 
 // ---------- events ----------
@@ -138,7 +141,7 @@ searchEl.addEventListener("input", () => {
   clearTimeout(timer);
   const q = searchEl.value.trim();
   if (!q) {
-    currentResults = quotes.map((item, idx) => ({ item, idx, score: 1, sem: 1, kw: 0 }));
+    currentResults = defaultResults();
     page = 0;
     render();
     return;
