@@ -1,4 +1,4 @@
-# Long-term TODOs
+# Roadmap
 
 ## IN PROGRESS
 
@@ -7,6 +7,10 @@
 ### 4. [HEALTH] Do a muscle-up
 
 ### 5. [HEALTH] Do a handstand (without support) for 10 seconds
+
+### 10. [WORK] Write and submit a paper about the "DefinIT" project
+
+- [ ] Ask IMR Press for waiver of the publication fee (see https://www.imrpress.com/journal/KO/page/apc and https://www.imrpress.com/page/article-processing-charges)
 
 ## TODO
 

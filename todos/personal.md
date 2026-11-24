@@ -38,7 +38,7 @@ https://allegro.pl/oferta/manfred-uglorz-atlas-golebi-polskie-rasy-18765268880
 
 https://allegro.pl/oferta/zestaw-herbat-na-prezent-owocowe-sypane-6-x-50-g-box-upominek-na-swieta-13769297142
 
-- [ ] Order all gifts
+- [ ] [20261201-] Order all gifts
 
 - [ ] Bring all the gifts to my mom's place
 
