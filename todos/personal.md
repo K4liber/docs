@@ -1,8 +1,6 @@
 # Personal TODOs
 
-## IN PROGRESS
-
-### 26. Decide about going to Andora for a New Year skiing trip
+## BOARD
 
 ### 25. Buy Christmas presents (up to ~50 PLN each)
 
@@ -52,7 +50,7 @@ I have multimedia from Potoczek chat from 2020-2024, but not from 2025.
 - [x] Upload 2020-2024 photos to an external drive and upload to my mom's Google Drive
 - [ ] Check if all photos and videos are uploaded
 
-## TODO
+## BACKLOG
 
 ### 23. Change the chain on my bike
 
@@ -62,6 +60,10 @@ I have multimedia from Potoczek chat from 2020-2024, but not from 2025.
 ### 9. Change the internet agreement to the new address
 
 ## DONE
+
+### 26. [20261124] Decide about going to Andora for a New Year skiing trip
+
+Not going. I would prefer to go by train/car to the mountains in Poland, just for trekking.
 
 ### 24. Fix flowers
 
